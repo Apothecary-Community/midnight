@@ -2,6 +2,29 @@
 
 an experimental matrix & mastodon client .
 
+## Feature list
+
+- [ ] Single and group chats
+- [ ] Send images and files
+- [ ] Voice messages
+- [ ] Offline chat history
+- [ ] Push Notifications
+- [ ] Account settings
+- [ ] Display user avatars
+- [ ] Themes, chat wallpapers and dark mode
+- [ ] Device management
+- [ ] Edit chat settings and permissions
+- [ ] Kick, ban and unban users
+- [ ] Display and edit chat topics
+- [ ] Change chat & user avatars
+- [ ] Archived chats
+- [ ] Discover public chats on the user's homeserver
+- [ ] Registration
+- [ ] Disable account
+- [ ] Change password
+- [ ] End-To-End-Encryption
+
+
 ## Getting Started
 
 1. [Install Flutter](https://flutter.dev/docs/get-started/install)
