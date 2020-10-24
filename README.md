@@ -46,7 +46,7 @@ an experimental matrix & mastodon client .
 1. Enable [web support](https://flutter.dev/docs/get-started/web) in flutter
 1. Build with `flutter build web`
 
-## Desktop
+### Desktop
 
 1. Enable [desktop support](https://flutter.dev/desktop) in flutter 
 1. Build with
