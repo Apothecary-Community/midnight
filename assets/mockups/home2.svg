@@ -5,13 +5,6 @@
    viewBox="0 0 26.458333 26.458334"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1-alpha (17bc9184, 2021-03-28)"
-   sodipodi:docname="home2.svg"
-   inkscape:export-filename="/Users/oracle/Projects/midnight-client/assets/mockups/home2.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -21,7 +14,6 @@
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3576">
       <stop
          style="stop-color:#121322;stop-opacity:0.11693548"
@@ -41,7 +33,6 @@
          id="stop3574" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3643">
       <stop
          style="stop-color:#121322;stop-opacity:1"
@@ -53,7 +44,6 @@
          id="stop3641" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3643"
        id="linearGradient3645"
        x1="0"
@@ -62,7 +52,6 @@
        y2="26.458334"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3643"
        id="linearGradient857"
        gradientUnits="userSpaceOnUse"
@@ -71,7 +60,6 @@
        x2="26.458334"
        y2="26.458334" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3576"
        id="linearGradient3578"
        x1="39.6875"
@@ -80,39 +68,6 @@
        y2="103.1875"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.7915618"
-     inkscape:cx="47.165552"
-     inkscape:cy="201.22108"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="true"
-     inkscape:pagecheckerboard="true"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1312"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     objecttolerance="10.0"
-     gridtolerance="10.0"
-     guidetolerance="10.0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid10"
-       spacingx="1.3229167"
-       spacingy="1.3229167"
-       empspacing="6" />
-  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -125,8 +80,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="fill:#121322;stroke-width:1.47166"
@@ -134,9 +87,7 @@
        width="87.3125"
        height="158.75"
        x="-31.75"
-       y="-47.625"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       y="-47.625" />
     <g
        id="g946"
        transform="translate(-3.0000003e-7,15.874999)">
